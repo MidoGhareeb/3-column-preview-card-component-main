@@ -47,6 +47,7 @@ body{
     letter-spacing: 2px;
     color: var(--Very-light-gray-background-headings-buttons);
     font-size: 40px;
+    text-transform: uppercase;
 }
 .card .info p{
     color: var(--Transparent-white-paragraphs);
